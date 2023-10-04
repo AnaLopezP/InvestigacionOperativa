@@ -10,4 +10,4 @@ Z2 = "14-x"
 Z3 = "13-x"
 x = symbols('x')
 plot(f1, f2, f3, Z1, Z2, Z3, (x, -1, 15))
-# Sol: Z= x1= x2=
+# Sol: Z= x1=6 x2=4
