@@ -1,3 +1,4 @@
+#Aquí queremos estudiar todo lo posible, sin divertirnos.
 import sympy as sym
 from sympy import symbols
 from sympy.plotting import plot
