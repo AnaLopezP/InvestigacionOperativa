@@ -8,3 +8,4 @@ f3 = "4" # x2 <= 4
 x = symbols('x')
 plot(f1, f2, f3, (x, -1, 15))
 #La solución es la recta acotada desde x1 = 3 a x1 = 6 y x2 = 4, ya que 4 son las horas máximas de diversión y el resto de horas para estudiar.
+#Solución múltiple
