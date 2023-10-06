@@ -24,7 +24,7 @@ Z3 = "(1000-8*x)/5"
 x = symbols('x')
 plot(f1, f2, f3, f4, Z1, (x, 0, 800))
 
-#¿se puede hacer mejor?
+#b) ¿se puede hacer mejor?
 '''Si, ya que hay otros puntos que equilibran más la producción de los juguetes. En la gráfica se ve que la función Z (morado) corta con el área óptima en el punto (450, 260). Z sigue valiendo 4900, pero la producción de juguetes está más equilibrada.'''
 
 #e) ¿x1 = 100; x2 = 150 es una solución factible? ¿Por qué?
